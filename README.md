@@ -1,9 +1,7 @@
 # Final Project Assembler
 
 This project is a PHP API
-
-![Screenshot](https://github.com/user-attachments/assets/fa8b1865-ac64-415c-8e38-c63539fef8ce)
-
+![Screenshot (136)](https://github.com/user-attachments/assets/2b24de8a-42ea-4904-82f6-bc641477f098)
 ## How to work
 This website works in such a way that we search for any city, enter an API and get and display the weather information of that city through the API.
 
